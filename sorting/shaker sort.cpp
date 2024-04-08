@@ -27,7 +27,7 @@ void shakerSort(int A[], unsigned int size) {
 }
 
 int main() {
-    // randomize the array
+    // randomize array
     unsigned int size;
     int A[50000];
     srand(1);
