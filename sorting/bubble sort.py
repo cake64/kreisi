@@ -16,6 +16,7 @@ def main():
     import random
     random.seed("yeah ok bro")
     a = list(range(50000))
+    random.shuffle(a)
 
     # sort it
     bubble_sort(a)
