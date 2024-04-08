@@ -12,7 +12,7 @@ void bubbleSort(int A[], unsigned int n) {
 }
 
 int main() {
-    // randomize the array
+    // randomize array
     unsigned int size;
     int A[50000];
     srand(1);
