@@ -1,6 +1,5 @@
 /*
 bubble sort in c++
-https://github.com/cake64/kreisi/blob/main/sorting/bubble%20sort.cpp
 */
 
 #include <bits/stdc++.h>
