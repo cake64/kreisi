@@ -10,10 +10,15 @@ def bubble_sort(h):
 
 
 def main():
+    # randomize the list
     import random
     random.seed("yeah ok bro")
     a = list(range(50000))
+
+    # sort it
     bubble_sort(a)
+
+    # print it
     print(a)
 
 
