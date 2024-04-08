@@ -1,5 +1,7 @@
-# bubble sort on python
-# https://github.com/cake64/kreisi/blob/main/sorting/bubble%20sort.py
+"""
+bubble sort on python
+https://github.com/cake64/kreisi/blob/main/sorting/bubble%20sort.py
+"""
 
 def bubble_sort(h):
     n = len(h)
