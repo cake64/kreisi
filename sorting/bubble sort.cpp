@@ -19,6 +19,8 @@ int main() {
     for (int i = 0; i < 50000; i++) {
         A[i] = rand() % (int)pow(2, 16) + 1;
     }
+
+    // sort it
     bubbleSort(A, 50000);
 
     // print it
