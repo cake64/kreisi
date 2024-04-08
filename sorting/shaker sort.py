@@ -1,6 +1,3 @@
-"""
-shaker sort on python
-"""
 def shaker_sort(h):
     left = 0
     right = len(h) - 1
