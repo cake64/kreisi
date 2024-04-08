@@ -4,7 +4,7 @@
 def bubble_sort(h):
     n = len(h)
     for i in range(n-1):
-        for j in range(0, n-i-1):
+        for j in range(n-i-1):
             if h[j] > h[j + 1]:
                 h[j], h[j + 1] = h[j + 1], h[j]
 
