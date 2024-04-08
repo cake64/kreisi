@@ -1,5 +1,5 @@
 """
-bogo sort on python
+BOGOSORT 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣🗣
 """
 import random
  
