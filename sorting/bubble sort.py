@@ -1,8 +1,3 @@
-"""
-bubble sort on python
-https://github.com/cake64/kreisi/blob/main/sorting/bubble%20sort.py
-"""
-
 def bubble_sort(h):
     n = len(h)
     for i in range(n-1):
@@ -12,7 +7,7 @@ def bubble_sort(h):
 
 
 def main():
-    # randomize the list
+    # randomize list
     import random
     random.seed("yeah ok bro")
     a = list(range(50000))
