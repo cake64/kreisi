@@ -1,8 +1,3 @@
-/*
-shaker sort in c++
-https://github.com/cake64/kreisi/blob/main/sorting/shaker%20sort.cpp
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
