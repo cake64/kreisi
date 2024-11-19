@@ -11,7 +11,8 @@ int main() {
         std::cin >> a[i];
     }
     for (int i = n - 1; i >= 0; i--) {
-        std::cout << a[i] << " ";
+        std::cout << a[i] << ' ';
     }
+    std::cout << '\n';
     return 0;
 }
